@@ -18,7 +18,7 @@ If you are using a Windows system, you can copy the link and paste it into brows
 Usage:
 
 ```
-python PolyXpert.py [inputfile]
+python HLPartner.py [inputfile]
 ```
 inputfile: sequence file, 'Name' column for **sequence id**, 'VH' column for heavy chain **Fv region** ,  'VL' column for light chain **Fv region** 
 The example of inputfile can be found in **./example/example_seq.txt**
